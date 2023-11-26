@@ -1,0 +1,15 @@
+main {
+    /* border: 1px solid firebrick; */
+}
+.main-container{
+    /* display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 20px;
+    column-gap: 20px; */
+}
+
+.card{
+    border: 1px solid green;
+    margin: 10px 0;
+    text-align: center;
+}

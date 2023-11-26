@@ -1,0 +1,30 @@
+.form-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid salmon;
+    height: calc(100vh - 103px);
+}
+
+.input{
+    width: 200px;
+    height: 20px;
+    border: 0;
+    outline: none;
+    border: 1px solid rgb(70, 68, 68);
+}
+
+.user-area{
+    margin-bottom: 5px;
+}
+.login-button{
+    text-align: center;
+    margin-top: 10px;
+}
+.toggle-btn-pass{
+    border: 0;
+    outline: 0;
+    width: 60px;
+    margin-left: 5px;
+}
